@@ -10,6 +10,8 @@ int main(void)
 	// Print out the main text
 	cout << "Hello World!" << endl;
 
+	//This is a test comment
+
 	// Give some space
 	cout << endl << endl;
 	
