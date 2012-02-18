@@ -13,6 +13,8 @@ int main(void)
 	// Give some space
 	cout << endl << endl;
 	
+	// A different test comment
+
 	// Guidance for quitting
 	cout << "Press Enter to Continue...";
 	cout.flush();
